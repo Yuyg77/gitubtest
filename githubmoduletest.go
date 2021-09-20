@@ -6,5 +6,5 @@ import (
 )
 
 func Test() {
-	fmt.Println("--11韦尔奇翁111111XXXXXXXXXX2222--")
+	fmt.Println("--11111111XXXXXXXXXX2222--")
 }
