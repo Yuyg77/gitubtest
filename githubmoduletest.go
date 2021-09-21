@@ -6,5 +6,5 @@ import (
 )
 
 func Test() {
-	fmt.Println("--xxxxxxxxxx--")
+	fmt.Println("--asdweazsdas--")
 }
